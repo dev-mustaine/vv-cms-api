@@ -1,0 +1,15 @@
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\bin\Debug\net5.0\Via.CMS.Infra.deps.json
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\bin\Debug\net5.0\Via.CMS.Infra.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\bin\Debug\net5.0\ref\Via.CMS.Infra.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\bin\Debug\net5.0\Via.CMS.Infra.pdb
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\bin\Debug\net5.0\Via.CMS.Domain.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\bin\Debug\net5.0\Via.CMS.Domain.pdb
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.csproj.AssemblyReference.cache
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.AssemblyInfoInputs.cache
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.AssemblyInfo.cs
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.csproj.CoreCompileInputs.cache
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.csproj.CopyComplete
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\ref\Via.CMS.Infra.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Infra\obj\Debug\net5.0\Via.CMS.Infra.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gpTNzvjvQhhKU6GFmhI9yN2PYwtOepCyqz88+IVn6uqwws89v6STp2d6yUuZWnSwBdDSbkLeWfmy4kxBtv4Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Github\\vv-cms-api\\vv-cms-api\\Via.CMS.Domain\\Via.CMS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2160000086\\.nuget\\packages\\mongodb.bson\\2.14.1\\mongodb.bson.2.14.1.nupkg.sha512",
+    "C:\\Users\\2160000086\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

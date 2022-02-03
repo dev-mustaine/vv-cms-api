@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Via.CMS.DTO\Via.CMS.DTO.csproj" />
+    <ProjectReference Include="..\Via.CMS.Infra\Via.CMS.Infra.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\bin\Debug\net5.0\Via.CMS.Domain.deps.json
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\bin\Debug\net5.0\Via.CMS.Domain.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\bin\Debug\net5.0\ref\Via.CMS.Domain.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\bin\Debug\net5.0\Via.CMS.Domain.pdb
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\obj\Debug\net5.0\Via.CMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\obj\Debug\net5.0\Via.CMS.Domain.AssemblyInfoInputs.cache
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\obj\Debug\net5.0\Via.CMS.Domain.AssemblyInfo.cs
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\obj\Debug\net5.0\Via.CMS.Domain.csproj.CoreCompileInputs.cache
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\obj\Debug\net5.0\Via.CMS.Domain.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\obj\Debug\net5.0\ref\Via.CMS.Domain.dll
+C:\Github\vv-cms-api\vv-cms-api\Via.CMS.Domain\obj\Debug\net5.0\Via.CMS.Domain.pdb
